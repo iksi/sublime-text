@@ -2,6 +2,7 @@
   "caret_extra_width": 0,
   "caret_style": "solid",
   "color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+  "ensure_newline_at_eof_on_save": true,
   "file_exclude_patterns": ["*.map"],
   "folder_exclude_patterns": ["node_modules", "venv"],
   "font_face": "Fira Code",
