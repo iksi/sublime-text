@@ -1,4 +1,4 @@
-# Sublime Text settings
+# Sublime Text setup
 
 Enable macOS command Line tool:
 
